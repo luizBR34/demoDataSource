@@ -1,12 +1,12 @@
 variable "AWS_ACCESS_KEY" {
     type = string
-    default = "AKIASMSIZOF42P2VUDSZ"
+    default = "AKIAVRUVQMF7Z7OHS6WB"
 }
 
 variable "AWS_SECRET_KEY" {}
 
 variable "AWS_REGION" {
-default = "us-east-2"
+default = "sa-east-1"
 }
 
 variable "Security_Group"{
